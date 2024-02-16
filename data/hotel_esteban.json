@@ -1,0 +1,127 @@
+{
+    "H200": {
+        "name": "Hotel Esteban",
+        "rooms": {
+            "101": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "102": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "103": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "104": {
+                "is_reserved": true,
+                "customer_id": "Juan Carlos Garcia P1793"
+            },
+            "105": {
+                "is_reserved": true,
+                "customer_id": "Luis Alberto Hernandez P8302"
+            },
+            "106": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "107": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "108": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "109": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "110": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "111": {
+                "is_reserved": true,
+                "customer_id": "Ana Karen Martinez P0394"
+            },
+            "112": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "113": {
+                "is_reserved": true,
+                "customer_id": "Laura Patricia Diaz P2849"
+            },
+            "114": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "115": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "116": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "117": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "118": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "119": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "120": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "121": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "122": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "123": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "124": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "125": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "126": {
+                "is_reserved": true,
+                "customer_id": "Paola Alejandra Gonzalez P4958"
+            },
+            "127": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "128": {
+                "is_reserved": false,
+                "customer_id": null
+            },
+            "129": {
+                "is_reserved": true,
+                "customer_id": "Miguel Angel Perez P5968"
+            },
+            "130": {
+                "is_reserved": false,
+                "customer_id": null
+            }
+        }
+    }
+}
