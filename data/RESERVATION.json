@@ -1,0 +1,18 @@
+{
+  "hotel_id": "123",
+  "name": "Hotel ESTEBAN",
+  "rooms": {
+    "101": {
+      "is_reserved": false,
+      "customer_id": null
+    },
+    "102": {
+      "is_reserved": false,
+      "customer_id": null
+    },
+    "103": {
+      "is_reserved": true,
+      "customer_id": "456"
+    }
+  }
+}
